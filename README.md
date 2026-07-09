@@ -1,70 +1,69 @@
 # 📱💻 Paris Electronics Store
 
-موقع تعريفي لمتجر بيع الهواتف الذكية واللابتوبات بتصميم عصري واحترافي باستخدام Vue.js لعرض المنتجات بطريقة جذابة وسهلة الاستخدام.
+A modern and professional e-commerce website for selling smartphones and laptops, designed with a modern interface using React to display products in an attractive and user-friendly way.
 
 ---
 
-## 📌 نبذة عن المشروع
+## 📌 Project Overview
 
-هذا المشروع عبارة عن موقع إلكتروني لمتجر **Paris** متخصص في بيع الهواتف واللابتوبات، تم تطويره باستخدام Vue.js لعرض المنتجات بشكل حديث ومنظم يعكس هوية تقنية احترافية ويوفر تجربة مستخدم سلسة.
-
----
-
-## 🎯 أهداف المشروع
-
-- عرض منتجات الهواتف واللابتوبات بشكل احترافي  
-- التعريف بمتجر Paris الإلكتروني  
-- إبراز أحدث الأجهزة والعروض  
-- تسهيل تواصل العملاء  
-- تجربة مستخدم سريعة وسهلة  
-- تصميم متجاوب مع جميع الأجهزة  
+This project is an e-commerce website for **Paris Store**, specializing in selling smartphones and laptops. It was developed using React to display products in a modern and organized way that reflects a professional technology identity and provides a smooth user experience.
 
 ---
 
-## 💻 التقنيات المستخدمة
+## 🎯 Project Goals
 
-
-- Vue.js
-- css
-
----
-
-## 📦 أقسام المتجر
-
-- 📱 الهواتف الذكية  
-- 💻 اللابتوبات  
-- 🔥 أحدث الإصدارات  
-- 💰 العروض والخصومات   
-- ⭐ الأكثر مبيعًا  
+- Display smartphones and laptops products professionally.
+- Introduce the Paris electronic store.
+- Highlight the latest devices and offers.
+- Make customer communication easier.
+- Provide a fast and easy user experience.
+- Create a responsive design for all devices.
 
 ---
 
-## 🎨 المميزات
+## 💻 Technologies Used
 
-- تصميم عصري واحترافي  
-- واجهة سهلة الاستخدام  
-- عرض منظم للمنتجات  
-- متجاوب مع جميع الأجهزة (Responsive)  
-- أداء سريع وسلس  
-- تجربة مستخدم حديثة باستخدام Vue.js  
+- React.js
+- CSS
 
 ---
 
-## 👨‍💻 المطور
+## 📦 Store Sections
 
-**محمد مجيب بشر**
+- 📱 Smartphones
+- 💻 Laptops
+- 🔥 Latest Releases
+- 💰 Offers and Discounts
+- ⭐ Best Sellers
 
 ---
 
-## 📞 التواصل
+## 🎨 Features
+
+- Modern and professional design.
+- Easy-to-use interface.
+- Organized product display.
+- Responsive design for all devices.
+- Fast and smooth performance.
+- Modern user experience using React.js.
+
+---
+
+## 👨‍💻 Developer
+
+**Mohammed Mojeeb Bishr**
+
+---
+
+## 📞 Contact
 
 - 📱 +967 772062777  
 - 📱 +967 782807337  
 
 ---
 
-## 🚀 طريقة التشغيل
+## 🚀 How to Run
 
 ```bash
 npm install
-npm run serve
+npm run dev
